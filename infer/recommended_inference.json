@@ -1,0 +1,16 @@
+{
+  "weights": "best_model.weights.h5",
+  "input_nchw": [
+    1,
+    1,
+    224,
+    384
+  ],
+  "grayscale": true,
+  "normalization": "[0,1]",
+  "orientation": "raw 720x1280 rotates clockwise 90 degrees; raw 1280x720 unchanged",
+  "confidence_threshold": 0.2,
+  "nms_iou_threshold": 0.1,
+  "max_detections": 2,
+  "anchors": 840
+}

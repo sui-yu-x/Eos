@@ -1,0 +1,1 @@
+InputTensor name: inputs Scale: 0.003921568859368563 OrderIn M1MODEL: 0 

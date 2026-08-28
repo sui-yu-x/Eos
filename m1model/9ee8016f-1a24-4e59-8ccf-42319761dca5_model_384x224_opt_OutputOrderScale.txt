@@ -1,0 +1,4 @@
+OutputTensor name: conv2d_46 Scale: 0.008176679722964764 OrderIn M1MODEL: 0 
+OutputTensor name: activation_1 Scale: 0.002703722333535552 OrderIn M1MODEL: 1 
+OutputTensor name: conv2d_41 Scale: 0.010235332883894444 OrderIn M1MODEL: 2 
+OutputTensor name: activation Scale: 0.002838695887476206 OrderIn M1MODEL: 3 

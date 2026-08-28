@@ -1,0 +1,7 @@
+/external/
+/train/runs/
+/infer/images_original/
+/infer/images_palm/
+/tensorboard/
+**/__pycache__/
+*.pyc
